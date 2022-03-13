@@ -81,7 +81,16 @@ __________________
 
 Подробнее про IP  в видео:  https://www.youtube.com/watch?v=b_Pv7FRLH0M
 </details>
+<details>
+<summary>Что такое IP адрес? Eго типы, перевод в двоичную форму, маска подсети.</summary>
 
+**IP-адрес** – это уникальный адрес, идентифицирующий устройство в интернете или локальной сети.
+
+Подробнее в видео: 
+1. https://www.youtube.com/watch?v=dgzMVnvGSDc&list=PLVBGA5l88uawnfgAPmZukz1tllANwlv1Z&index=8
+
+2. https://www.youtube.com/watch?v=Uj1XQgRXYOc
+</details>
 
 Источники:
 1. Интернет-версия издания: Шауцукова Л.З. Информатика 10 - 11. — М.: Просвещение, 2000 г - http://book.kbsu.ru/theory/chapter2/1_2_27.html
